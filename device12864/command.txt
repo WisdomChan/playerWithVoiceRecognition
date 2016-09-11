@@ -1,0 +1,1 @@
+gcc test12864.c -o libpycall.so -shared -fPIC -lwiringPi

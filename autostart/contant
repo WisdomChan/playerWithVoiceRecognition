@@ -1,0 +1,19 @@
+//[Desktop Entry]
+
+//Name=playmusic
+
+//Comment=My Python Program
+
+//Exec=sudo python3 /home/pi/musicproject/main.py
+
+//Icon=/home/pi/musicproject/musicicon.png
+
+//Terminal=True
+
+//MultipleArgs=false
+
+//Type=Application
+
+//Categories=Application;Development;
+
+//StartupNotify=True
